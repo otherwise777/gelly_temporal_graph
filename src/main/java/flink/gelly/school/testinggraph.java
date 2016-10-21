@@ -7,6 +7,7 @@ import org.apache.flink.api.java.tuple.Tuple2;
 import org.apache.flink.api.java.tuple.Tuple3;
 import org.apache.flink.api.java.tuple.Tuple4;
 import org.apache.flink.api.java.tuple.Tuple5;
+import org.apache.flink.configuration.Configuration;
 import org.apache.flink.graph.Edge;
 import org.apache.flink.graph.Graph;
 import org.apache.flink.graph.Vertex;
@@ -28,7 +29,8 @@ public class testinggraph {
         test8();
     }
     private static void test8() throws Exception {
-        final ExecutionEnvironment env = ExecutionEnvironment.getExecutionEnvironment();
+        ExecutionEnvironment env = ExecutionEnvironment.getExecutionEnvironment();
+
         // Step #1:  Load the data in a DataSet
         DataSet<Tuple2<Long, Long>> twitterEdges = env.readCsvFile("./datasets/out.munmun_twitter_social")
                 .fieldDelimiter(" ")  // node IDs are separated by spaces
@@ -37,12 +39,11 @@ public class testinggraph {
 
 // Step #2: Create a Graph and initialize vertex values
         Graph<Long, Long, NullValue> graph = Graph.fromTuple2DataSet(twitterEdges, new InitVertices(), env);
-
+        graph.getEdges().print();
+//        ExecutionEnvironment.createLocalEnvironment();
 //        graph.getEdges().print();
-        DataSet<Vertex<Long, Long>> verticesWithCommunity = graph.run(new LabelPropagation<>(1));
-//
-
-        System.out.println(verticesWithCommunity.count());
+//        DataSet<Vertex<Long, Long>> verticesWithCommunity = graph.run(new LabelPropagation<>(1));
+//        System.out.println(verticesWithCommunity.count());
 //        verticesWithCommunity.print();
 
     }

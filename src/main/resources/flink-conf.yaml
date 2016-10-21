@@ -1,3 +1,2 @@
 taskmanager.network.numberOfBuffers: 8096
-jobmanager.rpc.address: localhost
-#taskmanager.heap.mb: y
+taskmanager.memory.segment-size: 16768

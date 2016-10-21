@@ -1,2 +1,2 @@
 taskmanager.network.numberOfBuffers: 8096
-#taskmanager.heap.mb: y
+taskmanager.memory.segment-size: 16768

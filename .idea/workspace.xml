@@ -25,68 +25,61 @@
     <splitter split-orientation="horizontal" split-proportion="0.72213113">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="testinggraph.java" pinned="false" current-in-tab="false">
+          <file leaf-file-name="testinggraph.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/flink/gelly/school/testinggraph.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="41" column="81" selection-start-line="41" selection-start-column="81" selection-end-line="41" selection-end-column="81" />
+                <state relative-caret-position="238">
+                  <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="testinggraph.class" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/target/classes/flink/gelly/school/testinggraph.class">
+          <file leaf-file-name="ExecutionEnvironment.java" pinned="false" current-in-tab="false">
+            <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.1.2/flink-java-1.1.2-sources.jar!/org/apache/flink/api/java/ExecutionEnvironment.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+                <state relative-caret-position="184">
+                  <caret line="1188" column="66" selection-start-line="1188" selection-start-column="66" selection-end-line="1188" selection-end-column="66" />
+                  <folding>
+                    <element signature="e#52238#52239#0" expanded="true" />
+                    <element signature="e#52291#52292#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Configuration.java" pinned="false" current-in-tab="false">
+            <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.1.2/flink-core-1.1.2-sources.jar!/org/apache/flink/configuration/Configuration.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="133">
+                  <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TGraph.class" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/target/classes/flink/gelly/school/TGraph.class">
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pom.xml">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="EdgeTime.java" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/flink/gelly/school/EdgeTime.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                <state relative-caret-position="187">
+                  <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="flink-conf.yaml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/conf/flink-conf.yaml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
-                  <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="flink-conf.yaml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/resources/flink-conf.yaml">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="17">
-                  <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+                  <caret line="1" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="38" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="flink-conf.yaml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/target/classes/flink-conf.yaml">
+            <entry file="file://$PROJECT_DIR$/target/conf/flink-conf.yaml">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
                   <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -95,31 +88,23 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="flink-conf.yaml" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/resources/conf/flink-conf.yaml">
+          <file leaf-file-name="Main.class" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/target/classes/Main.class">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="0">
                   <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
+                  <folding>
+                    <element signature="e#0#1016#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Tgraphv3.class" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/target/classes/flink/gelly/school/Tgraphv3.class">
+          <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Tgraphv2.class" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/target/classes/flink/gelly/school/Tgraphv2.class">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="56" />
+                <state relative-caret-position="80">
+                  <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
                   <folding />
                 </state>
               </provider>
@@ -134,7 +119,14 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1615">
                   <caret line="120" column="39" selection-start-line="120" selection-start-column="39" selection-end-line="120" selection-end-column="39" />
-                  <folding />
+                  <folding>
+                    <element signature="e#0#9038#0" expanded="false" />
+                    <element signature="imports" expanded="false" />
+                    <element signature="e#2668#2669#0" expanded="false" />
+                    <element signature="e#2714#2715#0" expanded="false" />
+                    <element signature="e#2966#2967#0" expanded="false" />
+                    <element signature="e#3005#3006#0" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -154,7 +146,12 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="1088">
                   <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-                  <folding />
+                  <folding>
+                    <element signature="e#0#6921#0" expanded="false" />
+                    <element signature="imports" expanded="false" />
+                    <element signature="e#2447#2448#0" expanded="false" />
+                    <element signature="e#2479#2480#0" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -174,7 +171,76 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="28543">
                   <caret line="1791" column="0" selection-start-line="1791" selection-start-column="0" selection-end-line="1791" selection-end-column="0" />
-                  <folding />
+                  <folding>
+                    <element signature="e#0#88467#0" expanded="false" />
+                    <element signature="imports" expanded="false" />
+                    <element signature="e#17558#17559#0" expanded="false" />
+                    <element signature="e#17584#17585#0" expanded="false" />
+                    <element signature="e#17960#17961#0" expanded="false" />
+                    <element signature="e#17982#17983#0" expanded="false" />
+                    <element signature="e#18065#18066#0" expanded="false" />
+                    <element signature="e#18084#18085#0" expanded="false" />
+                    <element signature="e#18192#18193#0" expanded="false" />
+                    <element signature="e#18250#18251#0" expanded="false" />
+                    <element signature="e#18356#18357#0" expanded="false" />
+                    <element signature="e#18409#18410#0" expanded="false" />
+                    <element signature="e#25673#25674#0" expanded="false" />
+                    <element signature="e#25714#25715#0" expanded="false" />
+                    <element signature="e#27874#27875#0" expanded="false" />
+                    <element signature="e#27913#27914#0" expanded="false" />
+                    <element signature="e#34432#34433#0" expanded="false" />
+                    <element signature="e#34459#34460#0" expanded="false" />
+                    <element signature="e#36044#36045#0" expanded="false" />
+                    <element signature="e#36107#36108#0" expanded="false" />
+                    <element signature="e#42674#42675#0" expanded="false" />
+                    <element signature="e#42712#42713#0" expanded="false" />
+                    <element signature="e#43095#43096#0" expanded="false" />
+                    <element signature="e#43133#43134#0" expanded="false" />
+                    <element signature="e#43563#43564#0" expanded="false" />
+                    <element signature="e#43591#43592#0" expanded="false" />
+                    <element signature="e#45305#45306#0" expanded="false" />
+                    <element signature="e#45333#45334#0" expanded="false" />
+                    <element signature="e#46253#46254#0" expanded="false" />
+                    <element signature="e#46281#46282#0" expanded="false" />
+                    <element signature="e#46649#46650#0" expanded="false" />
+                    <element signature="e#46700#46701#0" expanded="false" />
+                    <element signature="e#46747#46748#0" expanded="false" />
+                    <element signature="e#46798#46799#0" expanded="false" />
+                    <element signature="e#46840#46841#0" expanded="false" />
+                    <element signature="e#46883#46884#0" expanded="false" />
+                    <element signature="e#47007#47008#0" expanded="false" />
+                    <element signature="e#47040#47041#0" expanded="false" />
+                    <element signature="e#47715#47716#0" expanded="false" />
+                    <element signature="e#47776#47777#0" expanded="false" />
+                    <element signature="e#48907#48908#0" expanded="false" />
+                    <element signature="e#48969#48970#0" expanded="false" />
+                    <element signature="e#49124#49125#0" expanded="false" />
+                    <element signature="e#49149#49150#0" expanded="false" />
+                    <element signature="e#49252#49253#0" expanded="false" />
+                    <element signature="e#49310#49311#0" expanded="false" />
+                    <element signature="e#56797#56798#0" expanded="false" />
+                    <element signature="e#56825#56826#0" expanded="false" />
+                    <element signature="e#78576#78577#0" expanded="false" />
+                    <element signature="e#78604#78605#0" expanded="false" />
+                    <element signature="e#79205#79206#0" expanded="false" />
+                    <element signature="e#79243#79244#0" expanded="false" />
+                    <element signature="e#79714#79715#0" expanded="false" />
+                    <element signature="e#79752#79753#0" expanded="false" />
+                    <element signature="e#81289#81290#0" expanded="false" />
+                    <element signature="e#81317#81318#0" expanded="false" />
+                    <element signature="e#82087#82088#0" expanded="false" />
+                    <element signature="e#82115#82116#0" expanded="false" />
+                    <element signature="e#82576#82577#0" expanded="false" />
+                    <element signature="e#82627#82628#0" expanded="false" />
+                    <element signature="e#82895#82896#0" expanded="false" />
+                    <element signature="e#82938#82939#0" expanded="false" />
+                    <element signature="e#83135#83136#0" expanded="false" />
+                    <element signature="e#83172#83173#0" expanded="false" />
+                    <element signature="e#86205#86206#0" expanded="false" />
+                    <element signature="e#86233#86234#0" expanded="false" />
+                    <element signature="e#88241#88242#0" expanded="false" />
+                    <element signature="e#88269#88270#0" expanded="false" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -201,7 +267,10 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+    <option name="WARN_ABOUT_DETACHED_HEAD" value="false" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -219,7 +288,6 @@
         <option value="$PROJECT_DIR$/src/main/java/tut.java" />
         <option value="$PROJECT_DIR$/src/main/java/Tutorial1.java" />
         <option value="$USER_HOME$/.IntelliJIdea2016.2/idea.exe.vmoptions" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/flink/gelly/school/Tgraph.java" />
         <option value="$PROJECT_DIR$/src/main/java/flink/gelly/school/TedgeImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/apache/flink/graph/EdgeImpl.java" />
@@ -236,10 +304,11 @@
         <option value="$PROJECT_DIR$/src/main/java/flink/gelly/school/Tgraphv2.java" />
         <option value="$PROJECT_DIR$/src/main/java/flink/gelly/school/Tgraphv3.java" />
         <option value="$PROJECT_DIR$/datasets/out.munmun_twitter_social" />
-        <option value="$PROJECT_DIR$/src/main/java/flink/gelly/school/testinggraph.java" />
-        <option value="$PROJECT_DIR$/conf/flink-conf.yaml" />
-        <option value="$PROJECT_DIR$/src/main/resources/conf/flink-conf.yaml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/flink-conf.yaml" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf/flink-conf.yaml" />
+        <option value="$PROJECT_DIR$/conf/flink-conf.yaml" />
+        <option value="$PROJECT_DIR$/src/main/java/flink/gelly/school/testinggraph.java" />
       </list>
     </option>
   </component>
@@ -662,11 +731,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conf" />
+              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -687,6 +752,14 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -702,24 +775,25 @@
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="naamproject" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="flink.gelly.school" />
-      <recent name="org.apache.flink.graph" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\naamproject\datasets" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\gelly_temporal_graph\target" />
       <recent name="C:\git\naamproject\src\main\resources" />
       <recent name="C:\git\naamproject\datasets" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="flink.gelly.school" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\git\naamproject\datasets" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="flink.gelly.school" />
+      <recent name="org.apache.flink.graph" />
     </key>
   </component>
   <component name="RunManager" selected="Application.testinggraph">
@@ -1288,12 +1362,12 @@
       <workItem from="1476878520302" duration="17605000" />
       <workItem from="1476967552705" duration="4533000" />
       <workItem from="1476973712438" duration="5647000" />
-      <workItem from="1477038257712" duration="26000" />
+      <workItem from="1477038257712" duration="4295000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181998000" />
+    <option name="totallyTimeSpent" value="186267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -1301,13 +1375,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3129771" sideWeight="0.35892856" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.058333334" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3210291" sideWeight="0.64107144" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3210291" sideWeight="0.64107144" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1322,7 +1397,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293348" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1395,39 +1469,25 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_91/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2006">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flink/gelly/school/TemporalEdgev2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.1.2/flink-core-1.1.2-sources.jar!/org/apache/flink/api/common/functions/MapFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flink/gelly/school/TemporalEdge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/flink/gelly/school/TemporalEdgev3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="16" column="56" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1521#1522#0" expanded="false" />
+            <element signature="e#1550#1551#0" expanded="false" />
+            <element signature="e#1578#1579#0" expanded="false" />
+            <element signature="e#1608#1609#0" expanded="false" />
+            <element signature="e#1647#1648#0" expanded="false" />
+            <element signature="e#1679#1680#0" expanded="false" />
+            <element signature="e#1707#1708#0" expanded="false" />
+            <element signature="e#1732#1733#0" expanded="false" />
+            <element signature="e#1770#1771#0" expanded="false" />
+            <element signature="e#1811#1812#0" expanded="false" />
+            <element signature="e#1839#1840#0" expanded="false" />
+            <element signature="e#1876#1877#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1435,6 +1495,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1464,6 +1527,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="38" column="46" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1513,6 +1579,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1534,6 +1601,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1541,6 +1609,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2363">
           <caret line="170" column="0" selection-start-line="170" selection-start-column="0" selection-end-line="176" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="class#OrderedEdgesFilter#0;class#Tutorial1#0" expanded="false" />
+            <element signature="e#5530#5531#0" expanded="false" />
+            <element signature="e#5578#5579#0" expanded="false" />
+            <element signature="class#AvgNodeDegreeMapper#0;class#Tutorial1#0" expanded="false" />
+            <element signature="e#5794#5795#0" expanded="false" />
+            <element signature="e#5858#5859#0" expanded="false" />
+            <element signature="e#6344#6345#0" expanded="false" />
+            <element signature="e#6383#6384#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1577,7 +1656,76 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28543">
           <caret line="1791" column="0" selection-start-line="1791" selection-start-column="0" selection-end-line="1791" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#88467#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#17558#17559#0" expanded="false" />
+            <element signature="e#17584#17585#0" expanded="false" />
+            <element signature="e#17960#17961#0" expanded="false" />
+            <element signature="e#17982#17983#0" expanded="false" />
+            <element signature="e#18065#18066#0" expanded="false" />
+            <element signature="e#18084#18085#0" expanded="false" />
+            <element signature="e#18192#18193#0" expanded="false" />
+            <element signature="e#18250#18251#0" expanded="false" />
+            <element signature="e#18356#18357#0" expanded="false" />
+            <element signature="e#18409#18410#0" expanded="false" />
+            <element signature="e#25673#25674#0" expanded="false" />
+            <element signature="e#25714#25715#0" expanded="false" />
+            <element signature="e#27874#27875#0" expanded="false" />
+            <element signature="e#27913#27914#0" expanded="false" />
+            <element signature="e#34432#34433#0" expanded="false" />
+            <element signature="e#34459#34460#0" expanded="false" />
+            <element signature="e#36044#36045#0" expanded="false" />
+            <element signature="e#36107#36108#0" expanded="false" />
+            <element signature="e#42674#42675#0" expanded="false" />
+            <element signature="e#42712#42713#0" expanded="false" />
+            <element signature="e#43095#43096#0" expanded="false" />
+            <element signature="e#43133#43134#0" expanded="false" />
+            <element signature="e#43563#43564#0" expanded="false" />
+            <element signature="e#43591#43592#0" expanded="false" />
+            <element signature="e#45305#45306#0" expanded="false" />
+            <element signature="e#45333#45334#0" expanded="false" />
+            <element signature="e#46253#46254#0" expanded="false" />
+            <element signature="e#46281#46282#0" expanded="false" />
+            <element signature="e#46649#46650#0" expanded="false" />
+            <element signature="e#46700#46701#0" expanded="false" />
+            <element signature="e#46747#46748#0" expanded="false" />
+            <element signature="e#46798#46799#0" expanded="false" />
+            <element signature="e#46840#46841#0" expanded="false" />
+            <element signature="e#46883#46884#0" expanded="false" />
+            <element signature="e#47007#47008#0" expanded="false" />
+            <element signature="e#47040#47041#0" expanded="false" />
+            <element signature="e#47715#47716#0" expanded="false" />
+            <element signature="e#47776#47777#0" expanded="false" />
+            <element signature="e#48907#48908#0" expanded="false" />
+            <element signature="e#48969#48970#0" expanded="false" />
+            <element signature="e#49124#49125#0" expanded="false" />
+            <element signature="e#49149#49150#0" expanded="false" />
+            <element signature="e#49252#49253#0" expanded="false" />
+            <element signature="e#49310#49311#0" expanded="false" />
+            <element signature="e#56797#56798#0" expanded="false" />
+            <element signature="e#56825#56826#0" expanded="false" />
+            <element signature="e#78576#78577#0" expanded="false" />
+            <element signature="e#78604#78605#0" expanded="false" />
+            <element signature="e#79205#79206#0" expanded="false" />
+            <element signature="e#79243#79244#0" expanded="false" />
+            <element signature="e#79714#79715#0" expanded="false" />
+            <element signature="e#79752#79753#0" expanded="false" />
+            <element signature="e#81289#81290#0" expanded="false" />
+            <element signature="e#81317#81318#0" expanded="false" />
+            <element signature="e#82087#82088#0" expanded="false" />
+            <element signature="e#82115#82116#0" expanded="false" />
+            <element signature="e#82576#82577#0" expanded="false" />
+            <element signature="e#82627#82628#0" expanded="false" />
+            <element signature="e#82895#82896#0" expanded="false" />
+            <element signature="e#82938#82939#0" expanded="false" />
+            <element signature="e#83135#83136#0" expanded="false" />
+            <element signature="e#83172#83173#0" expanded="false" />
+            <element signature="e#86205#86206#0" expanded="false" />
+            <element signature="e#86233#86234#0" expanded="false" />
+            <element signature="e#88241#88242#0" expanded="false" />
+            <element signature="e#88269#88270#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1602,13 +1750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.1.2/flink-java-1.1.2-sources.jar!/org/apache/flink/api/java/ExecutionEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="895" column="0" selection-start-line="895" selection-start-column="0" selection-end-line="895" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.10/1.1.2/flink-runtime_2.10-1.1.2-sources.jar!/org/apache/flink/runtime/minicluster/FlinkMiniCluster.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
@@ -1627,7 +1768,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1615">
           <caret line="120" column="39" selection-start-line="120" selection-start-column="39" selection-end-line="120" selection-end-column="39" />
-          <folding />
+          <folding>
+            <element signature="e#0#9038#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2668#2669#0" expanded="false" />
+            <element signature="e#2714#2715#0" expanded="false" />
+            <element signature="e#2966#2967#0" expanded="false" />
+            <element signature="e#3005#3006#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1635,7 +1783,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="90" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#6921#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2447#2448#0" expanded="false" />
+            <element signature="e#2479#2480#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1668,29 +1821,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/flink/gelly/school/testinggraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="41" column="81" selection-start-line="41" selection-start-column="81" selection-end-line="41" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/flink/gelly/school/Tgraphv3.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1715,30 +1845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conf/flink-conf.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/conf/flink-conf.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/flink-conf.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/flink/gelly/school/TGraph.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1755,10 +1861,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/flink-conf.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/conf/flink-conf.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/conf/flink-conf.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1016#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.1.2/flink-core-1.1.2-sources.jar!/org/apache/flink/configuration/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-java/1.1.2/flink-java-1.1.2-sources.jar!/org/apache/flink/api/java/ExecutionEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="1188" column="66" selection-start-line="1188" selection-start-column="66" selection-end-line="1188" selection-end-column="66" />
+          <folding>
+            <element signature="e#52238#52239#0" expanded="true" />
+            <element signature="e#52291#52292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/flink-conf.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
+          <caret line="1" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/conf/flink-conf.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="38" selection-start-line="1" selection-start-column="38" selection-end-line="1" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/flink-conf.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
           <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/flink/gelly/school/testinggraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
           <folding />
         </state>
       </provider>

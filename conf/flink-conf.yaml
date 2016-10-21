@@ -1,3 +1,0 @@
-parallelism.default: 0
-taskmanager.network.numberOfBuffers: 4096
-#taskmanager.heap.mb: y
