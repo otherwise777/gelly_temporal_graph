@@ -44,12 +44,13 @@ public class testinggraph {
 
 // Step #2: Create a Graph and initialize vertex values
         Graph<Long, Long, NullValue> graph = Graph.fromTuple2DataSet(twitterEdges, new InitVertices(), env);
-        graph.getEdges().print();
-//        ExecutionEnvironment.createLocalEnvironment();
 //        graph.getEdges().print();
-        DataSet<Vertex<Long, Long>> verticesWithCommunity = graph.run(new LabelPropagation<>(1));
-        System.out.println(verticesWithCommunity.count());
+//        ExecutionEnvironment.createLocalEnvironment();
+        graph.getEdges().print();
+//        DataSet<Vertex<Long, Long>> verticesWithCommunity = graph.run(new LabelPropagation<>(1));
+//        System.out.println(verticesWithCommunity.count());
 //        verticesWithCommunity.print();
+
 
     }
     private static void test6() throws Exception {
